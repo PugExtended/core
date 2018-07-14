@@ -1,0 +1,10 @@
+
+# Python Files Reviewer
+*.py @thecodechef
+
+# Sublime Files Reviewer
+
+*.sublime-* @thecodechef
+
+# Markdown Files Reviewer
+*.md @thecodechef
